@@ -23,99 +23,99 @@
     <string name="deep_purple" translatable="false">Deep Purple</string>
 
     <!-- onLoginClick -->
-    <string name="user_name">Username</string>
+    <string name="user_name">Nome utente</string>
     <string name="password">Password</string>
-    <string name="login">Login</string>
-    <string name="login_in_browser">LOGIN WITH BROWSER</string>
-    <string name="oauth_tip">Login using your default browser(OAuth)</string>
-    <string name="user_name_warning">Invalid username!</string>
-    <string name="password_warning">Invalid password!</string>
+    <string name="login">Accesi</string>
+    <string name="login_in_browser">ACCEDI COL BROWSER</string>
+    <string name="oauth_tip">Accedi utilizzando il tuo browser predefinito (OAuth)</string>
+    <string name="user_name_warning">Nome utente non valido!</string>
+    <string name="password_warning">Password non valida!</string>
 
     <!-- menu -->
-    <string name="profile">Profile</string>
-    <string name="notifications">Notifications</string>
-    <string name="news">News</string>
+    <string name="profile">Profilo</string>
+    <string name="notifications">Notifiche</string>
+    <string name="news">Novità</string>
     <string name="issues">Issues</string>
 
     <string name="repositories">Repositories</string>
-    <string name="owned">Owned</string>
+    <string name="owned">Propri</string>
     <string name="starred">Starred</string>
     <string name="trending">Trending</string>
-    <string name="explore">Explore</string>
+    <string name="explore">Esplora</string>
 
-    <string name="info_and_repositories">Info &#038; Preferences</string>
-    <string name="settings">Settings</string>
-    <string name="about">About</string>
+    <string name="info_and_repositories">Info &#038; Preferenze</string>
+    <string name="settings">Impostazioni</string>
+    <string name="about">Informazioni</string>
 
     <string name="public_repositories">Public repositories</string>
     <string name="starred_repositories">Starred repositories</string>
 
-    <string name="no_cache_and_network">Network and cache is unavailable.</string>
-    <string name="page_no_found">Page not found.</string>
-    <string name="unauthorized">Unauthorized.</string>
-    <string name="no_network_tip">Loading data from GitHub failed. Please check your network connection and retry.</string>
-    <string name="load_timeout_tip">Loading data from GitHub timed out. Please check your network connection and retry.</string>
-    <string name="tap_to_retry">Tap to retry</string>
-    <string name="no_data">No data</string>
+    <string name="no_cache_and_network">Rete e cache non disponibili.</string>
+    <string name="page_no_found">Pagina non trovata.</string>
+    <string name="unauthorized">Non autorizzato.</string>
+    <string name="no_network_tip">Caricamento dei dati da GitHub fallito. Per favore controlla la tua connessione e riprova.</string>
+    <string name="load_timeout_tip">Caricamento dei dati da GitHub troppo lungo. Per favore controlla la tua connessione e riprova.</string>
+    <string name="tap_to_retry">Premi per riprovare</string>
+    <string name="no_data">Nessun dato</string>
 
     <string name="title_activity_repository">OpenHub</string>
-    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_settings">Impostazioni</string>
 
     <!-- Strings related to Settings -->
 
     <!-- settings -->
-    <string name="choose_theme">Choose Theme</string>
-    <string name="theme_accent_color">Theme Accent Color</string>
-    <string name="start_page">Start Page</string>
-    <string name="cache_controller">Cache Controller</string>
-    <string name="cache_controller_desc">Load cache first if cache available, then load from network</string>
-    <string name="use_system_downloader">Use System Downloader</string>
-    <string name="use_custom_tabs">Use Custom Tabs</string>
-    <string name="custom_tabs_desc">Open in custom tabs instead of outer browser(support chrome, firefox…)</string>
-    <string name="use_custom_tabs_tips">If you want to open in outer browser directly, you could change in settings.</string>
-    <string name="language">Language</string>
-    <string name="logout">Logout</string>
+    <string name="choose_theme">Scegli tema</string>
+    <string name="theme_accent_color">Colore principale del tema</string>
+    <string name="start_page">Pagina iniziale</string>
+    <string name="cache_controller">Controllo cache</string>
+    <string name="cache_controller_desc">Carica prima la cache se è disponibile, quindi carica dalla rete</string>
+    <string name="use_system_downloader">Usa il downloader di sistema</string>
+    <string name="use_custom_tabs">Usa una scheda personalizzata</string>
+    <string name="custom_tabs_desc">Usa una sche da personalizzata invece del browser predefinito (supporta Chrome, Firefox…)</string>
+    <string name="use_custom_tabs_tips">Se vuoi aprire direttamente in un browser esterno, puoi modificare nelle impostazioni.</string>
+    <string name="language">Lingua</string>
+    <string name="logout">Esci</string>
 
     <!-- Repository -->
     <string name="repository">Repository</string>
     <string name="info">Info</string>
-    <string name="files">Files</string>
+    <string name="files">File</string>
     <string name="commits">Commits</string>
     <string name="commit">Commit</string>
 
     <string name="star">Star</string>
     <string name="unstar">Unstar</string>
     <string name="unstarred">Unstarred</string>
-    <string name="branch_tip">Branches or tags</string>
-    <string name="share">Share</string>
-    <string name="open_in_browser">Open in browser</string>
-    <string name="copy_url">Copy URL</string>
-    <string name="copy_clone_url">Copy clone URL</string>
-    <string name="watch">Watch</string>
-    <string name="watched">Watched</string>
-    <string name="unwatch">Unwatch</string>
-    <string name="unwatched">Unwatched</string>
+    <string name="branch_tip">Branches o tags</string>
+    <string name="share">Condividi</string>
+    <string name="open_in_browser">Apri nel browser</string>
+    <string name="copy_url">Copia URL</string>
+    <string name="copy_clone_url">Copia URL clone</string>
+    <string name="watch">Segui</string>
+    <string name="watched">Seguita</string>
+    <string name="unwatch">Non segui</string>
+    <string name="unwatched">Non seguita</string>
     <string name="fork">Fork</string>
     <string name="fork_tag">Fork</string>
     <string name="forked">Forked</string>
-    <string name="forked_from">Forked from</string>
+    <string name="forked_from">Forked da</string>
     <string name="wrap_lines">Wrap lines</string>
-    <string name="refresh">Refresh</string>
+    <string name="refresh">Aggiorna</string>
 
-    <string name="success_copied">Copied</string>
+    <string name="success_copied">Copiato</string>
 
     <string name="stargazers">Stargazers</string>
     <string name="forks">Forks</string>
-    <string name="watchers">Watchers</string>
+    <string name="watchers">Seguaci</string>
     <string name="readme">README</string>
     <string name="no_readme">NO README</string>
-    <string name="warning_dialog_tile">Warning</string>
-    <string name="cancel">Cancel</string>
-    <string name="close">Close</string>
+    <string name="warning_dialog_tile">Attenzione</string>
+    <string name="cancel">Anulla</string>
+    <string name="close">Chiudi</string>
     <string name="ok">OK</string>
     <string name="confirm">OK</string>
-    <string name="select_branch">Select branch or tag</string>
-    <string name="share_to">Share to</string>
+    <string name="select_branch">Seleziona branch or tag</string>
+    <string name="share_to">Condividi su</string>
     <string name="no_share_clients">There are no share clients installed.</string>
     <string name="no_browser_clients">There are no browser clients installed.</string>
     <string name="no_download_clients">There are no download clients installed.</string>
